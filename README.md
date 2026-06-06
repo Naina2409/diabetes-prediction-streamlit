@@ -35,10 +35,6 @@ Run:
 streamlit run app.py
 ```
 
-## Dataset
-
-Pima Indians Diabetes Dataset
-
 ## Author
 
 Naina Agarwal
