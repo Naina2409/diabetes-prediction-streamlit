@@ -29,7 +29,7 @@ scaler = pickle.load(
 # ==========================================
 
 st.sidebar.title("About Project")
-st.sidebar.title("DIABETES PREDICTOR SYSTEM")
+
 st.sidebar.info(
 """
 Machine Learning Based
