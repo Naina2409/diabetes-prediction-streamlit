@@ -186,9 +186,7 @@ st.image(
 
 st.markdown("---")
 
-st.caption(
-    "Developed using Streamlit and Scikit-Learn"
-)
+
 with st.expander("About the Inputs"):
     st.markdown("""
     **Skin Thickness:** Use 20–30 if unknown.  
@@ -197,3 +195,6 @@ with st.expander("About the Inputs"):
     **Blood Pressure:** Enter the diastolic value (e.g., 80 from 120/80).  
     **BMI:** Weight (kg) / Height² (m²).  
     """)
+st.caption(
+    "Developed using Streamlit and Scikit-Learn"
+)
