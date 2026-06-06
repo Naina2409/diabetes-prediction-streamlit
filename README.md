@@ -34,6 +34,9 @@ Run:
 ```bash
 streamlit run app.py
 ```
+## Live Demo
+
+https://diabetes-risk-predictor-system.streamlit.app
 
 ## Author
 
